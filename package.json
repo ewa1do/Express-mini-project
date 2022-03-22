@@ -1,0 +1,26 @@
+{
+  "name": "express-mini-project",
+  "version": "1.0.0",
+  "description": "Repo of lectures about expressjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewa1do/Express-mini-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewa1do/Express-mini-project/issues"
+  },
+  "homepage": "https://github.com/ewa1do/Express-mini-project#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
